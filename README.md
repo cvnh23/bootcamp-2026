@@ -4,7 +4,7 @@ USF INFORMS Student Chapter · Sponsored by the INFORMS Quality, Statistics, and
 Friday, October 9, 2026 · 2:00–4:30 PM · ENG 3
 
 ## Open the notebook in Colab
-https://colab.research.google.com/github/informs-sc-usf/bootcamp-2026/blob/main/Part1_Foundations_with_Python.ipynb
+https://colab.research.google.com/github/cvnh23/bootcamp-2026/blob/main/Part1_Foundations_with_Python.ipynb
 
 Click **File → Save a copy in Drive** to keep your changes.
 
